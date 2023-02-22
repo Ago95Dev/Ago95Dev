@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="6%">, I'm Agostino!
 
-I'm a Computer Science student at Univaq. Currently learning frontend development and Aws technology.
+I'm a Computer Science student at Univaq. Currently learning Web development and Aws technology.
 
 ---
 🧰 Toolbox
