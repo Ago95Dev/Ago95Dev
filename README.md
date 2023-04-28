@@ -12,3 +12,4 @@ I'm a Computer Science student at Univaq. Currently learning Web development and
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="40" height="40"/>
   </p>
 
+<img src="https://www.codewars.com/users/Ago95Dev/badges/small">
