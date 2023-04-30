@@ -1,15 +1,17 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="6%">, I'm Agostino!
+### <h1 align="center">Hi 👋, I'm Agostino</h1>
 
-I'm a Computer Science student at Univaq. Currently learning Web development and Aws technology.
+A passionate Developer and Computer Science student at Univaq.
+
+- 🌱 I’m currently learning **React**
 
 ---
-🧰 Toolbox
-
-<p><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgresql Logo" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="40" height="40"/>
-  </p>
+Programming Languages
+  <p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
+  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
+ </p>
 
 <img src="https://www.codewars.com/users/Ago95Dev/badges/small">
