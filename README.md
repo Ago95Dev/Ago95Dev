@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Agostino</h1>
 
-A passionate Developer and Computer Science student at Univaq.
+A passionate developer and Computer Science student at Univaq.
 
 - 🌱 I’m currently learning **React**
 
