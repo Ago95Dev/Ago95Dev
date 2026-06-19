@@ -1,25 +1,68 @@
-### <h1 align="center">Hi 👋, I'm Agostino</h1>
+<h1 align="center">Agostino (@Ago95Dev)</h1>
 
-A passionate developer and Computer Science student at Univaq.
+<h3 align="center">Software Developer // Systems Architect</h3>
 
-- 🌱 I’m currently learning **React**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Development;Event-Driven+Microservices;IoT+%26+System+Architecture;AI-Augmented+Workflows;Containerization+%26+Orchestration" alt="Typing SVG" />
+</p>
 
 ---
-Programming Languages
-  <p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
-  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
- </p>
- 
- Frontend Development
- 
- <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<img src="https://www.codewars.com/users/Ago95Dev/badges/small">
+## Overview
+
+I am a software developer with a pragmatic approach to problem-solving. My background spans from modernizing legacy monoliths to designing distributed, event-driven architectures. I prioritize clean systems, efficient workflows, and understanding the architectural scope before writing a single line of code.
+
+*   **Architecture & Systems:** Designing distributed, event-driven microservices (Apache Kafka) and orchestrating environments with Docker Compose. Exploring orchestration at scale with Kubernetes (currently a beginner, actively learning).
+*   **Legacy to Modern:** Deep expertise in maintaining, refactoring, and migrating complex legacy monolithic codebases to modern standards.
+*   **IoT & Data:** Building robust simulated environments and system managers using MQTT, Node-RED, InfluxDB, and Grafana.
+*   **AI & ML:** Integrating ML workflows (Jupyter, Conda) and heavily utilizing AI coding assistants (Cursor, Codeium, Claude) to optimize development cycles.
+*   **Methodology:** Strong advocate for functional containerization, system modeling, and learning by building.
+
+---
+
+## Tech Stack
+
+### Core Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,ts,js,java,dart" alt="Core Languages" />
+  </a>
+</p>
+
+### Architecture & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,linux,bash,mysql" alt="Architecture and Backend" />
+  </a>
+</p>
+
+### Frontend & Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,flutter,tailwind,css,html" alt="Frontend Technologies" />
+  </a>
+</p>
+
+### Data, IoT & Integrations
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana,rabbitmq,nodejs" alt="IoT and Data" />
+  </a>
+</p>
+
+---
+
+## Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ago95Dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ago95Dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="192"/>
+</p>
+
+<br>
+
+<p align="left">
+  <a href="https://www.codewars.com/users/Ago95Dev">
+    <img src="https://www.codewars.com/users/Ago95Dev/badges/large" alt="Codewars Badge">
+  </a>
+</p>
