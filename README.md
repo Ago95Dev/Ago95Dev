@@ -15,7 +15,7 @@ I am a software developer with a pragmatic approach to problem-solving. My backg
 *   **Architecture & Systems:** Designing distributed, event-driven microservices (Apache Kafka) and orchestrating environments with Docker Compose. Exploring orchestration at scale with Kubernetes (currently a beginner, actively learning).
 *   **Legacy to Modern:** Deep expertise in maintaining, refactoring, and migrating complex legacy monolithic codebases to modern standards.
 *   **IoT & Data:** Building robust simulated environments and system managers using MQTT, Node-RED, InfluxDB, and Grafana.
-*   **AI & ML:** Integrating ML workflows (Jupyter, Conda) and heavily utilizing AI coding assistants (Cursor, Codeium, Claude) to optimize development cycles.
+*   **AI & ML:** Integrating ML workflows (Jupyter, Conda) and utilizing AI coding assistants (Gemini, Codeium, Claude) to optimize development cycles.
 *   **Methodology:** Strong advocate for functional containerization, system modeling, and learning by building.
 
 ---
